@@ -1,0 +1,6 @@
+{
+  "name": "ECHO Studios",
+  "description": "Endless Conversational Host Orchestrator – The ultimate AI podcast creation studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
